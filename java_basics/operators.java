@@ -2,8 +2,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int a = 10;
-        int b = 3;
+        int a = 20;
+        int b = 10;
 
         System.out.println(a + b);  // Addition
         System.out.println(a - b);  // Subtraction
