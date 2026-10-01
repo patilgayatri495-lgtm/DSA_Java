@@ -129,7 +129,7 @@ Heaps
 
 Graphs
 
-Tries
+Trees
 
 ⚡ Algorithms
 Searching
